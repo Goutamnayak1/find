@@ -38,5 +38,7 @@ class find{
         f.minmax();
         f.sum();
         f.avg();
+
+        System.out.println("this is master branch");
     }
 }
